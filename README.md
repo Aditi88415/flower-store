@@ -27,7 +27,7 @@ A dynamic Flower Store web application that allows users to browse and purchase 
 
 ## 🗄️ Database Setup
 
-- The SQL file `flower_store.sql` is already included in the project.
+- The SQL file `shop_db.sql` is already included in the project.
 - Import it into your MySQL server using phpMyAdmin or the MySQL CLI.
 
 ### How to Import:
