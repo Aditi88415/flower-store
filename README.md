@@ -32,9 +32,9 @@ A dynamic Flower Store web application that allows users to browse and purchase 
 
 ### How to Import:
 1. Go to [phpMyAdmin](http://localhost/phpmyadmin)
-2. Create a database named `flower_store`
+2. Create a database named `shop_db`
 3. Click **Import**
-4. Select `flower_store.sql` from the project folder
+4. Select `shop_db.sql` from the project folder
 5. Click **Go**
 
 ## ⚙️ Configuration
